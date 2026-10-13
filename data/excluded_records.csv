@@ -1,0 +1,241 @@
+record_no,first_author,year,journal,pmid,title,exclusion_reason
+1,Adekkanattu P,2024,npj Digital Medicine,39341983,Deep learning for identifying personal and family history of suicidal thoughts and behaviors from EHRs.,Ineligible study type or publication
+2,Agostinho A,2025,npj Digital Medicine,41107441,Semi-automated surveillance of surgical site infections using machine learning and rule-based classification models.,Ineligible study type or publication
+3,Bellemo V,2024,npj Digital Medicine,38704440,Optical coherence tomography choroidal enhancement using generative deep learning.,Ineligible study type or publication
+4,Benda N,2026,npj Digital Medicine,42086913,"A qualitative interview study investigating patient, health professional, and developer perspectives on real-world implementation of patient-centered AI systems.",Ineligible study type or publication
+5,Benson M,2025,npj Digital Medicine,41266569,Fetal gestational age estimation using artificial intelligence on non-targeted ultrasound images and video.,Ineligible study type or publication
+6,Bhasuran B,2025,npj Digital Medicine,40102561,Preliminary analysis of the impact of lab results on large language model generated differential diagnoses.,Ineligible study type or publication
+7,Blasiak A,2024,npj Digital Medicine,39191913,Personalized dose selection for the first Waldenström macroglobulinemia patient on the PRECISE CURATE.AI trial.,Ineligible study type or publication
+8,Brand YE,2026,npj Digital Medicine,41820522,Continuous assessment of daily-living gait using self-supervised learning of wrist-worn accelerometer data.,Ineligible study type or publication
+9,Briggs JK,2026,npj Digital Medicine,,Towards a physics informed digital twin to predict cerebral blood flow and cerebral vascular regulation.,Ineligible study type or publication
+10,Browning L,2026,npj Digital Medicine,42174106,An evaluation of artificial intelligence assisted prostate biopsy reporting in the Articulate Pro study.,Ineligible study type or publication
+11,Cao J,2026,npj Digital Medicine,42032114,Exploring the limits of localization: federated model stacking improves hospital-level prediction in a national research network.,Ineligible study type or publication
+12,Cazzaniga G,2025,npj Digital Medicine,,"Automating liver biopsy segmentation with a robust, open-source tool for pathology research: the HOTSPoT model.",Ineligible study type or publication
+13,Chan J,2024,npj Digital Medicine,39438764,Detecting clinical medication errors with AI enabled wearable cameras.,Ineligible study type or publication
+14,Chen F,2024,npj Digital Medicine,39572625,Phenotype driven molecular genetic test recommendation for diagnosing pediatric rare disorders.,Ineligible study type or publication
+15,Chen H,2025,npj Digital Medicine,39757250,Artificial intelligence assisted real-time recognition of intra-abdominal metastasis during laparoscopic gastric cancer surgery.,Ineligible study type or publication
+16,Chen Q,2026,npj Digital Medicine,41951838,Impact of an AI prognostic tool on clinician performance in colorectal liver metastases.,Ineligible study type or publication
+17,Chen R,2026,npj Digital Medicine,,Boosting foundation models for rare eye disease diagnosis via a multimodal text-to-image generative framework.,Ineligible study type or publication
+18,Chen T,2026,npj Digital Medicine,,Noninvasive molecular subtyping of breast cancer using multimodal ultrasound spatiotemporal transformer.,Full text not retrievable
+19,Chen X,2025,npj Digital Medicine,,A deep learning based automatic report generator for retinal optical coherence tomography images.,Ineligible study type or publication
+20,Chen X,2025,npj Digital Medicine,40082662,Enhancing diagnostic capability with multi-agents conversational large language models.,Ineligible study type or publication
+21,Chu L,2026,npj Digital Medicine,,Modeling Ischemic Stroke Pathological Dynamics via Continuous Fields and Vector Flow.,Ineligible study type or publication
+22,Cui J,2025,npj Digital Medicine,40055525,Identifying and forecasting importation and asymptomatic spreaders of multi-drug resistant organisms in hospital settings.,Ineligible study type or publication
+23,Denis T,2026,npj Digital Medicine,,Towards noninvasive blood count using a deep learning pipeline from bulbar conjunctiva videos.,Ineligible study type or publication
+24,Despraz J,2026,npj Digital Medicine,41559206,An artificial intelligence-powered learning health system to improve sepsis detection and quality of care: a before-and-after study.,Ineligible study type or publication
+25,Drenkow N,2026,npj Digital Medicine,42215678,Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach.,Ineligible study type or publication
+26,Du J,2026,npj Digital Medicine,,Structure-aware multi-task learning with domain generalization for robust vertebrae analysis in spinal CT.,Ineligible study type or publication
+27,Eckardt JN,2025,npj Digital Medicine,40118991,Synthetic bone marrow images augment real samples in developing acute myeloid leukemia microscopy classification models.,Ineligible study type or publication
+28,Eili MY,2025,npj Digital Medicine,39966675,Predicting clinical pathways of traumatic brain injuries (TBIs) through process mining.,Ineligible study type or publication
+29,Ferle M,2026,npj Digital Medicine,,Unsupervised risk factor identification across cancer types and data modalities via explainable artificial intelligence.,Ineligible study type or publication
+30,Fouda AE,2026,npj Digital Medicine,,PsychiatryBench: a multi-task benchmark for LLMs in psychiatry.,Ineligible study type or publication
+31,Fung MMH,2025,npj Digital Medicine,40025285,Developing a named entity framework for thyroid cancer staging and risk level classification using large language models.,Ineligible study type or publication
+32,Gao J,2025,npj Digital Medicine,,MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling.,Ineligible study type or publication
+33,Gao S,2025,npj Digital Medicine,,Enhancing privacy-preserving deployable large language models for perioperative complication detection: a targeted strategy with LoRA fine-tuning.,Ineligible study type or publication
+34,Ge Q,2026,npj Digital Medicine,,Integrative single-cell and spatial transcriptomics with explainable AI reveal lethal prognostic axis in prostate cancer.,Ineligible study type or publication
+35,Geraci J,2025,npj Digital Medicine,,Explainable AI-driven precision clinical trial enrichment: demonstration of the NetraAI platform with a phase II depression trial.,Ineligible study type or publication
+36,Giuffrè M,2025,npj Digital Medicine,,Expert of Experts Verification and Alignment (EVAL) Framework for Large Language Models Safety in Gastroenterology.,Ineligible study type or publication
+37,Gomez C,2025,npj Digital Medicine,,The explainable AI dilemma under knowledge imbalance in specialist AI for glaucoma referrals in primary care.,Ineligible study type or publication
+38,Han J,2025,npj Digital Medicine,,Deep learning-enabled accurate assessment of gait impairments in Parkinson's disease using smartphone videos.,Ineligible study type or publication
+39,Han JW,2026,npj Digital Medicine,,Machine learning based hepatic safety score predicts decompensation in hepatocellular carcinoma systemic therapy.,Full text not retrievable
+40,Heydari K,2025,npj Digital Medicine,,Incorporating large language models as clinical decision support in oncology: the Woollie model.,Ineligible study type or publication
+41,Hong Q,2026,npj Digital Medicine,,A foundational model encodes deep phenotyping data and enables diverse downstream applications.,Ineligible study type or publication
+42,Hu C,2025,npj Digital Medicine,41402439,Exploiting large language models for diagnosing autism associated language disorders and identifying distinct features.,Ineligible study type or publication
+43,Huang A,2026,npj Digital Medicine,,Deep chemical structure graph learning deciphers the lipotoxicity code of hypertriglyceridemic pancreatitis.,Ineligible study type or publication
+44,Huang J,2024,npj Digital Medicine,38693429,A critical assessment of using ChatGPT for extracting structured data from clinical notes.,Ineligible study type or publication
+45,Huang J,2026,npj Digital Medicine,,A domain-adaptive deep contrastive network for magnetic resonance imaging-driven bladder cancer classification.,Ineligible study type or publication
+46,Huang M,2025,npj Digital Medicine,,Anatomically-guided Masked Autoencoder with Domain-Adaptive Prompting (AMAP) for multimodal cerebral aneurysm detection and segmentation.,Ineligible study type or publication
+47,Huang W,2026,npj Digital Medicine,,Federated clinical concept and disease semantic learning for congenital heart disease diagnosis.,Ineligible study type or publication
+48,Huang X,2025,npj Digital Medicine,,Interpretable longitudinal glaucoma visual field estimation deep learning system from fundus images and clinical narratives.,Ineligible study type or publication
+49,Hudson GT,2026,npj Digital Medicine,41974922,Automating the quality monitoring of a hospital discharge summary improvement project utilising large language models.,Ineligible study type or publication
+50,Ji X,2026,npj Digital Medicine,,Early diagnosis of axial spondyloarthritis in primary care using multi-agent systems.,Ineligible study type or publication
+51,Jiang R,2026,npj Digital Medicine,,Domain specific multimodal large language model for automated endoscopy reporting with multicenter prospective validation.,Ineligible study type or publication
+52,Jiang Y,2025,npj Digital Medicine,,From pretraining to privacy: federated ultrasound foundation model with self-supervised learning.,Ineligible study type or publication
+53,Jin K,2026,npj Digital Medicine,,Grounded report generation for enhancing ophthalmic ultrasound interpretation using Vision-Language Segmentation models.,Ineligible study type or publication
+54,Jin Z,2026,npj Digital Medicine,41714699,Robust and interpretable unit level causal inference in neural networks for pediatric myopia.,Ineligible study type or publication
+55,Jinia AJ,2026,npj Digital Medicine,,Artificial intelligence-based incident analysis and learning system to enhance patient safety and improve treatment quality.,Ineligible study type or publication
+56,Juarez EF,2025,npj Digital Medicine,39885315,A machine learning decision support tool optimizes WGS utilization in a neonatal intensive care unit.,Ineligible study type or publication
+57,Kim HS,2026,npj Digital Medicine,,Neck-to-knee dixon MRI thigh volume as a superior mass biomarker for Sarcopenia: evidence from the UK biobank.,Ineligible study type or publication
+58,Kim JH,2026,npj Digital Medicine,41974887,An exploratory study of headache pain intensity using facial expressions and APEX frames.,Ineligible study type or publication
+59,Kim JY,2026,npj Digital Medicine,,Deep learning-based automatic scoring of drug-induced sleep endoscopy in obstructive sleep apnea.,Ineligible study type or publication
+60,Kim YT,2026,npj Digital Medicine,,Defining operational safety in clinical artificial intelligence systems.,Ineligible study type or publication
+61,Koch LM,2024,npj Digital Medicine,38724581,Distribution shift detection for the postmarket surveillance of medical AI algorithms: a retrospective simulation study.,Ineligible study type or publication
+62,Lamberti G,2025,npj Digital Medicine,,ARTEMIS: a pilot study comparing AI-based and expert therapeutic decisions in simulated clinical cases of neuroendocrine neoplasms.,Ineligible study type or publication
+63,Lannelongue V,2026,npj Digital Medicine,41652107,Physics constrained graph neural network for real time prediction of intracranial aneurysm hemodynamics.,Ineligible study type or publication
+64,Lee B,2026,npj Digital Medicine,,Advanced breath analysis through hierarchical deep convolutional neural network for multi-cancer screening.,Ineligible study type or publication
+65,Lee H,2025,npj Digital Medicine,39863774,Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals.,Ineligible study type or publication
+66,Lee S,2026,npj Digital Medicine,42204253,Reassessing negative 24 h pH impedance tests for hidden gastroesophageal reflux disease using multi feature anomaly detection.,Ineligible study type or publication
+67,Li B,2025,npj Digital Medicine,,Commercialization of medical artificial intelligence technologies: challenges and opportunities.,Ineligible study type or publication
+68,Li B,2026,npj Digital Medicine,,Physics-informed deep learning enables reliable and scalable organoid quantification for drug screening via OCT.,Ineligible study type or publication
+69,Li D,2025,npj Digital Medicine,,A novel single-cell level evaluation method for corneal endothelial cell function.,Ineligible study type or publication
+70,Li D,2025,npj Digital Medicine,,Streamlining evidence based clinical recommendations with large language models.,Ineligible study type or publication
+71,Li L,2026,npj Digital Medicine,,Computational pharmacovigilance of Lifitegrast in dry eye disease using machine learning and network toxicology.,Ineligible study type or publication
+72,Li M,2026,npj Digital Medicine,,CancerLLM: a large language model in cancer domain.,Ineligible study type or publication
+73,Li Y,2026,npj Digital Medicine,,A multimodal deep learning model predicting hyperprogressive disease for PD-1 blockade in advanced hepatocellular carcinoma.,Full text not retrievable
+74,Lin T,2025,npj Digital Medicine,39757295,Efficiency and safety of automated label cleaning on multimodal retinal images.,Ineligible study type or publication
+75,Liou L,2024,npj Digital Medicine,38844546,Assessing calibration and bias of a deployed machine learning malnutrition prediction model within a large healthcare system.,Ineligible study type or publication
+76,Lithwick Algon A,2026,npj Digital Medicine,,"Accessible assessment of motor and cognitive symptoms in Parkinson's disease: integrating large datasets, machine-learning, and videoconferencing.",Ineligible study type or publication
+77,Liu R,2026,npj Digital Medicine,,Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images.,Ineligible study type or publication
+78,Liu S,2026,npj Digital Medicine,,AI-guided personalized predictions on myopia progression and interventions.,Ineligible study type or publication
+79,Liu X,2026,npj Digital Medicine,,Multi-task deep learning assists detection and diagnosis of gliomas and brain metastases.,Full text not retrievable
+80,Liu X,2026,npj Digital Medicine,,Personalized neoadjuvant treatment regimen selection in locally advanced rectal cancer based on regimen-specific response modeling.,Full text not retrievable
+81,Lu C,2025,npj Digital Medicine,40759736,Determinants of depressive symptoms in multinational middle-aged and older adults.,Ineligible study type or publication
+82,Lu Y,2026,npj Digital Medicine,,A lightweight CVTC model for accurate Alzheimer's MRI analysis and lesion annotation.,Ineligible study type or publication
+83,Lugrin C,2026,npj Digital Medicine,,Longitudinal assessment of chorea in Huntington's disease using digital passive monitoring.,Ineligible study type or publication
+84,Luo I,2025,npj Digital Medicine,,Leveraging large language models to extract smoking history from clinical notes for lung cancer surveillance.,Ineligible study type or publication
+85,Ma K,2025,npj Digital Medicine,41299062,Research progress in computer-aided diagnosis systems for lung cancer.,Ineligible study type or publication
+86,Marino Miguélez MH,2025,npj Digital Medicine,40851034,Culture-free detection of bacteria from blood for rapid sepsis diagnosis.,Ineligible study type or publication
+87,Mason F,2024,npj Digital Medicine,39090394,AI-enhanced reconstruction of the 12-lead electrocardiogram via 3-leads with accurate clinical assessment.,Ineligible study type or publication
+88,Naghavi E,2026,npj Digital Medicine,41654658,Rapid prediction of cardiac activation in the left ventricle with geometric deep learning: a step towards cardiac resynchronization therapy planning.,Ineligible study type or publication
+89,Nakashima T,2025,npj Digital Medicine,41430486,Development and evaluation of a machine learning model predicting out-of-hospital cardiac arrest using environmental factors.,Ineligible study type or publication
+90,O'Sullivan D,2024,npj Digital Medicine,38956410,Pediatric sex estimation using AI-enabled ECG analysis: influence of pubertal development.,Ineligible study type or publication
+91,Osman D,2026,npj Digital Medicine,,Cardiovascular digital twins using a Windkessel physics informed neural network.,Ineligible study type or publication
+92,Pacheco AGC,2026,npj Digital Medicine,,Towards a clinically integrated artificial intelligence tool for triage of skin cancer.,Full text not retrievable
+93,Park SH,2026,npj Digital Medicine,41548032,Wearable device derived electrocardiographic age and its association with atrial fibrillation.,Ineligible study type or publication
+94,Pastika L,2024,npj Digital Medicine,38918595,Artificial intelligence-enhanced electrocardiography derived body mass index as a predictor of future cardiometabolic disease.,Ineligible study type or publication
+95,Peng B,2026,npj Digital Medicine,42026117,Decoupling MCI-specific signatures from shared neurobiological substrates of cognitive aging via deep learning.,Ineligible study type or publication
+96,Petridis P,2026,npj Digital Medicine,,Holistic AI in medicine; improved performance and explainability.,Ineligible study type or publication
+97,Phipps J,2024,npj Digital Medicine,38783001,Early adverse physiological event detection using commercial wearables: challenges and opportunities.,Ineligible study type or publication
+98,Protserov S,2024,npj Digital Medicine,39227660,"Development, deployment and scaling of operating room-ready artificial intelligence for real-time surgical decision support.",Ineligible study type or publication
+99,Prunella M,2026,npj Digital Medicine,,Evolutionary digital twin framework for optimal aminoglycoside dosing in neonates with suspected sepsis.,Ineligible study type or publication
+100,Qu N,2026,npj Digital Medicine,,Multimodal interpretable deep learning for transcriptome-informed precision oncology and drug mechanism analysis.,Full text not retrievable
+101,Quan C,2025,npj Digital Medicine,,FedOcw: optimized federated learning for cross-lingual speech-based Parkinson's disease detection.,Ineligible study type or publication
+102,Rawlani M,2025,npj Digital Medicine,41254301,Artificial intelligence prediction of age from echocardiography as a marker for cardiovascular disease.,Ineligible study type or publication
+103,Rossi AD,2025,npj Digital Medicine,,SLEEPYLAND: trust begins with fair evaluation of automatic sleep staging models.,Ineligible study type or publication
+104,Shao A,2025,npj Digital Medicine,40603524,Generative artificial intelligence for fundus fluorescein angiography interpretation and human expert evaluation.,Ineligible study type or publication
+105,Shao Y,2026,npj Digital Medicine,,Real-world unified denoising for multi-organ fast MRI: a large-scale prospective validation.,Ineligible study type or publication
+106,Shen R,2026,npj Digital Medicine,41775925,Real-time digital prescriptions unlock influenza dynamics: evidence from 21 million transactions.,Ineligible study type or publication
+107,Shi M,2025,npj Digital Medicine,39833503,Equitable artificial intelligence for glaucoma screening with fair identity normalization.,Ineligible study type or publication
+108,Shin J,2025,npj Digital Medicine,,Artificially intelligent nasal perception for rapid sepsis diagnostics.,Ineligible study type or publication
+109,Smith DA,2025,npj Digital Medicine,,Monitoring the opioid epidemic via social media discussions.,Ineligible study type or publication
+110,Smyth C,2026,npj Digital Medicine,41571940,Personalized supervised and unsupervised intracranial sleep decoding during deep brain stimulation.,Ineligible study type or publication
+111,Song TH,2025,npj Digital Medicine,40216974,Fine-grained forecasting of COVID-19 trends at the county level in the United States.,Ineligible study type or publication
+112,Song Y,2025,npj Digital Medicine,39775108,Multimodal deep ensemble classification system with wearable vibration sensor for detecting throat-related events.,Ineligible study type or publication
+113,Spitzer P,2026,npj Digital Medicine,42026140,The effect of medical explanations from large language models on diagnostic accuracy in radiology.,Ineligible study type or publication
+114,Su D,2026,npj Digital Medicine,,Development and validation of a machine learning-based diagnostic system for 22 pediatric respiratory pathogens: a large-scale multicenter study.,Full text not retrievable
+115,Su X,2025,npj Digital Medicine,,Large language models driven neural architecture search for universal and lightweight disease diagnosis on histopathology slide images.,Ineligible study type or publication
+116,Thambiraj G,2026,npj Digital Medicine,,Personalized artificial intelligence based left ventricular ejection fraction and systolic dysfunction assessment.,Ineligible study type or publication
+117,Theodorou B,2025,npj Digital Medicine,39953146,Improving medical machine learning models with generative balancing for equity and excellence.,Ineligible study type or publication
+118,Tian IY,2025,npj Digital Medicine,39894882,3D convolutional deep learning for nonlinear estimation of body composition from whole body morphology.,Ineligible study type or publication
+119,Tian J,2026,npj Digital Medicine,,An autonomous agentic workflow for clinical detection of cognitive concerns using large language models.,Ineligible study type or publication
+120,Tian S,2026,npj Digital Medicine,,Artificial intelligence for the prediction of prognosis in colorectal cancer patients using routine blood indices.,Full text not retrievable
+121,Tian Y,2025,npj Digital Medicine,,ROFI: a deep learning-based ophthalmic sign-preserving and reversible patient face anonymizer.,Ineligible study type or publication
+122,Tran N,2025,npj Digital Medicine,40775041,Novel radiotherapy target definition using AI-driven predictions of glioblastoma recurrence from metabolic and diffusion MRI.,Ineligible study type or publication
+123,Tranchellini F,2026,npj Digital Medicine,,Evaluating deep learning sepsis prediction models in ICUs under distribution shift: a multi-centre retrospective cohort study.,Ineligible study type or publication
+124,Trottet C,2025,npj Digital Medicine,40890392,Deep hierarchical subtyping of multi-organ systemic sclerosis trajectories - a EUSTAR study.,Ineligible study type or publication
+125,Troya J,2026,npj Digital Medicine,,Gastrointestinal endoscopic image style transfer using EndoStyle to improve artificial intelligence prediction models.,Ineligible study type or publication
+126,Tumpa ZN,2025,npj Digital Medicine,40866555,Quantifying device type and handedness biases in a remote Parkinson's disease AI-powered assessment.,Ineligible study type or publication
+127,Tölle M,2025,npj Digital Medicine,39915633,Real world federated learning with a knowledge distilled transformer for cardiac CT imaging.,Ineligible study type or publication
+128,Venturini L,2025,npj Digital Medicine,39799267,Whole examination AI estimation of fetal biometrics from 20-week ultrasound scans.,Ineligible study type or publication
+129,Wang ML,2026,npj Digital Medicine,41571872,Evaluation of large language models for diagnostic impression generation from brain MRI report findings: a multicenter benchmark and reader study.,Ineligible study type or publication
+130,Wang Q,2025,npj Digital Medicine,,Knockoff-ML: a knockoff machine learning framework for controlled variable selection and risk stratification in electronic health record data.,Ineligible study type or publication
+131,Wang S,2025,npj Digital Medicine,,GH-UNet: group-wise hybrid convolution-VIT for robust medical image segmentation.,Ineligible study type or publication
+132,Wang Z,2026,npj Digital Medicine,,Time and person sensitive foundation model for disease prediction and risk stratification.,Ineligible study type or publication
+133,Weber S,2025,npj Digital Medicine,41057559,Using a fine-tuned large language model for symptom-based depression evaluation.,Ineligible study type or publication
+134,Wind S,2025,npj Digital Medicine,,Multi-step retrieval and reasoning improves radiology question answering with large language models.,Ineligible study type or publication
+135,Wittlinger S,2025,npj Digital Medicine,40640575,How machine learning on real world clinical data improves adverse event recording for endoscopy.,Ineligible study type or publication
+136,Wu F,2026,npj Digital Medicine,,AUBADE-syn: a novel deep learning ensemble method for glaucoma detection using synthetic fundus images on imbalanced datasets.,Ineligible study type or publication
+137,Wu J,2025,npj Digital Medicine,41444832,Multi-omics dissection of SNP-mediated immunometabolic signatures in Alzheimer's disease reveals a novel individual predictive model.,Ineligible study type or publication
+138,Wu Y,2026,npj Digital Medicine,,WiseMind: a knowledge-guided multi-agent framework for accurate and empathetic psychiatric diagnosis.,Ineligible study type or publication
+139,Xi Y,2025,npj Digital Medicine,,CoreFormer high fidelity pulmonary nodule segmentation with structural core priors and geodesic implicit fields.,Ineligible study type or publication
+140,Xia J,2026,npj Digital Medicine,,Deep learning predicts stent implantation in borderline coronary lesions from angiography.,Full text not retrievable
+141,Xia L,2026,npj Digital Medicine,,Prompt-mamba filtering networks for accurate hepatocellular carcinoma lesion segmentation in abdominal CT.,Ineligible study type or publication
+142,Xian S,2025,npj Digital Medicine,,Transformer patient embedding using electronic health records enables patient stratification and progression analysis.,Ineligible study type or publication
+143,Xiang L,2025,npj Digital Medicine,40360731,"Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners.",Ineligible study type or publication
+144,Xiao L,2026,npj Digital Medicine,,A machine learning-derived polygenic risk score reveals that healthy lifestyle counteracts obesity-related mortality.,Ineligible study type or publication
+145,Xing L,2026,npj Digital Medicine,,A contrastive reconstruction vision transformer model for intelligent diagnosis of autism spectrum disorder.,Full text not retrievable
+146,Xu W,2026,npj Digital Medicine,41965442,Evaluating AI in leukocyte classification: performance of the AI system against 15 morphology experts.,Ineligible study type or publication
+147,Xu Z,2025,npj Digital Medicine,,Hierarchical reasoning for lung cancer detection: from multi-scale perception to hypergraph inference with CR-YOLO.,Ineligible study type or publication
+148,Yada Y,2026,npj Digital Medicine,42115692,Decomposing heterogeneity in disease progression speeds and pathways.,Ineligible study type or publication
+149,Yan Y,2025,npj Digital Medicine,39875800,The use of large language models in detecting Chinese ultrasound report errors.,Ineligible study type or publication
+150,Yang H,2025,npj Digital Medicine,40615665,Relative importance of temporal and location features in predicting smoking events.,Ineligible study type or publication
+151,Yang M,2026,npj Digital Medicine,,A device-invariant multi-modal learning framework for respiratory disease classification.,Ineligible study type or publication
+152,Yu P,2024,npj Digital Medicine,39580609,Spatial resolution enhancement using deep learning improves chest disease diagnosis based on thick slice CT.,Ineligible study type or publication
+153,Yu Z,2025,npj Digital Medicine,,A cross population study of retinal aging biomarkers with longitudinal pre-training and label distribution learning.,Ineligible study type or publication
+154,Zack M,2026,npj Digital Medicine,,An agentic AI system for automated pharmacogenomic recommendation generation.,Ineligible study type or publication
+155,Zadka A,2024,npj Digital Medicine,38796519,A wearable sensor and machine learning estimate step length in older adults and patients with neurological disorders.,Ineligible study type or publication
+156,Zantvoort K,2024,npj Digital Medicine,39695276,Estimation of minimal data sets sizes for machine learning predictions in digital mental health interventions.,Ineligible study type or publication
+157,Zhang G,2025,npj Digital Medicine,,Leveraging long context in retrieval augmented language models for medical question answering.,Ineligible study type or publication
+158,Zhang W,2026,npj Digital Medicine,,Deep learning prediction of pathological complete response in breast cancer using Mamba architecture.,Full text not retrievable
+159,Zhang W,2026,npj Digital Medicine,,Fully automated system predicts osteoporotic vertebral fracture across institutions using lumbar MRI paraspinal muscle signatures.,Full text not retrievable
+160,Zhang Y,2025,npj Digital Medicine,,Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images.,Ineligible study type or publication
+161,Zheng C,2025,npj Digital Medicine,,HemaContour: explicit parametric contour learning for robust ICH segmentation on non-contrast CT.,Ineligible study type or publication
+162,Zheng T,2026,npj Digital Medicine,,Leveraging computerized adaptive testing for cost-effective evaluation of large language models in medical benchmarking.,Ineligible study type or publication
+163,Zhong F,2025,npj Digital Medicine,41326769,Machine learning-driven glycolytic subtyping and exosome-based PKM splicing modulation overcome drug resistance in hyper-glycolytic myeloid leukemia.,Ineligible study type or publication
+164,Zhong X,2026,npj Digital Medicine,,Bridging radiology and pathology: domain-generalized cross-modal learning for clinical.,Ineligible study type or publication
+165,Zhou Q,2026,npj Digital Medicine,,Personalised thrombo-embolic risk prediction after endometrial cancer surgery: an explainable AI approach using SHAP.,Full text not retrievable
+166,Zhou Z,2024,npj Digital Medicine,39427092,Privacy enhancing and generalizable deep learning with synthetic data for mediastinal neoplasm diagnosis.,Ineligible study type or publication
+167,Zhu J,2026,npj Digital Medicine,,HMC-transducer: hierarchical mamba-CNN transducer for robust liver tumor segmentation.,Ineligible study type or publication
+168,Zhu S,2025,npj Digital Medicine,,STD-Net: a spatio-temporal decoupling network for multiphasic liver lesion segmentation and characterization.,Ineligible study type or publication
+169,Zhu X,2025,npj Digital Medicine,40155683,A clinically interpretable model derived from skin conductance for assessing microangiopathy of the skin surface.,Ineligible study type or publication
+170,Bontempi D,2025,Lancet Digital Health,40345937,"FaceAge, a deep learning system to estimate biological age from face photographs to improve prognostication: a model development and validation study.",Ineligible study type or publication
+171,DuPont M,2025,Lancet Digital Health,40866284,Computer-aided reading of chest radiographs for paediatric tuberculosis: current status and future directions.,Ineligible study type or publication
+172,Hasjim BJ,2026,Lancet Digital Health,41951492,A multiagent large language model-based system to simulate the liver transplant selection committee: a retrospective cohort study.,Ineligible study type or publication
+173,Kehayias CE,2025,Lancet Digital Health,39722248,Copyright © 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC 4.0 license. Published by Elsevier Ltd.. All rights reserved.,Ineligible study type or publication
+174,Levine DM,2024,Lancet Digital Health,39059888,The diagnostic and triage accuracy of the GPT-3 artificial intelligence model: an observational study.,Ineligible study type or publication
+175,Malins JG,2025,Lancet Digital Health,40148009,"Snapshot artificial intelligence-determination of ejection fraction from a single frame still image: a multi-institutional, retrospective model development and validation study.",Ineligible study type or publication
+176,Mihan A,2024,Lancet Digital Health,39214762,Mitigating the risk of artificial intelligence bias in cardiovascular care.,Ineligible study type or publication
+177,Quer G,2024,Lancet Digital Health,39214760,The potential for large language models to transform cardiovascular medicine.,Ineligible study type or publication
+178,Sau A,2025,Lancet Digital Health,40015763,Artificial intelligence-enhanced electrocardiography for the identification of a sex-related cardiovascular risk continuum: a retrospective cohort study.,Ineligible study type or publication
+179,Ueda D,2024,Lancet Digital Health,38981834,A deep learning-based model to estimate pulmonary function from chest x-rays: multi-institutional model development and validation study in Japan.,Ineligible study type or publication
+180,Wei Q,2024,Lancet Digital Health,38670740,"Machine learning to understand risks for severe COVID-19 outcomes: a retrospective cohort study of immune-mediated inflammatory diseases, immunomodulatory medications, and comorbidities in a large US health-care system.",Ineligible study type or publication
+181,Wong KK,2024,Lancet Digital Health,38906615,Automated cooling tower detection through deep learning for Legionnaires' disease outbreak investigations: a model development and validation study.,Ineligible study type or publication
+182,Yi J,2025,Lancet Digital Health,40382274,AI-based volumetric six-tissue body composition quantification from CT cardiac attenuation scans for mortality prediction: a multicentre study.,Ineligible study type or publication
+183,van Winkel SL,2025,Lancet Digital Health,40816977,AI as an independent second reader in detection of clinically relevant breast cancers within a population-based screening programme in the Netherlands: a retrospective cohort study.,Ineligible study type or publication
+184,Adejumo P,2024,JAMA Network Open,39509128,Natural Language Processing of Clinical Documentation to Assess Functional Status in Patients With Heart Failure.,Ineligible study type or publication
+185,Barami T,2024,JAMA Network Open,39264628,Automated Analysis of Stereotypical Movements in Videos of Children With Autism Spectrum Disorder.,Ineligible study type or publication
+186,Boyle J,2026,JAMA Network Open,41706454,A Geographically Sensitive Neighborhood Exposome-Wide Association Study for Breast Cancer Survival.,Ineligible study type or publication
+187,Busch F,2025,JAMA Network Open,40493367,Multinational Attitudes Toward AI in Health Care and Diagnostics Among Hospital Patients.,Ineligible study type or publication
+188,Chen Q,2025,JAMA Network Open,40668583,"AI Workflow, External Validation, and Development in Eye Disease Diagnosis.",Ineligible study type or publication
+189,Chung DH,2025,JAMA Network Open,39951264,Prostate Cancer Mortality in Men Aged 70 Years Who Recently Underwent Prostate-Specific Antigen Screening.,Ineligible study type or publication
+190,Davis CN,2025,JAMA Network Open,39786773,Utility of Candidate Genes From an Algorithm Designed to Predict Genetic Risk for Opioid Use Disorder.,Ineligible study type or publication
+191,Drake AR,2025,JAMA Network Open,41129153,"Community Factors and County-Level Cancer Screening, Prevalence, and Mortality.",Ineligible study type or publication
+192,Goodman KE,2025,JAMA Network Open,40402496,Identification of Long-Term Care Facility Residence From Admission Notes Using Large Language Models.,Ineligible study type or publication
+193,Harris AR,2025,JAMA Network Open,39992653,"Neighborhood Environment, DNA Methylation, and Presence of Crown-Like Structures of the Breast",Ineligible study type or publication
+194,Kar I,2025,JAMA Network Open,41082228,Survival Determinants and Sociodemographic Disparities in Early-Onset Non-Small Cell Lung Cancer.,Ineligible study type or publication
+195,Kim J,2024,JAMA Network Open,39058486,Development of an Automated Free Flap Monitoring System Based on Artificial Intelligence.,Ineligible study type or publication
+196,Lee G,2026,JAMA Network Open,41949867,Multimodal Assessment of Biological Age Following Radiation Therapy Among Patients With Early-Stage NSCLC.,Ineligible study type or publication
+197,Lho SK,2025,JAMA Network Open,40408109,Large Language Models and Text Embeddings for Detecting Depression and Suicide in Patient Narratives,Ineligible study type or publication
+198,Liu L,2025,JAMA Network Open,39918819,Cumulative Excess Body Mass Index and MGUS Progression to Myeloma.,Ineligible study type or publication
+199,Longwell JB,2024,JAMA Network Open,38888919,Performance of Large Language Models on Medical Oncology Examination Questions.,Ineligible study type or publication
+200,Lorenzoni G,2024,JAMA Network Open,38805230,Use of a Large Language Model to Identify and Classify Injuries With Free-Text Emergency Department Data.,Ineligible study type or publication
+201,Madanay F,2025,JAMA Network Open,39951262,Physician Gender and Patient Perceptions of Interpersonal and Technical Skills in Online Reviews.,Ineligible study type or publication
+202,Mullens CL,2025,JAMA Network Open,40131276,Patient Complexity and Bile Duct Injury After Robotic-Assisted vs Laparoscopic Cholecystectomy.,Ineligible study type or publication
+203,Ngeow AJH,2024,JAMA Network Open,39661385,Development and Validation of a Smartphone Application for Neonatal Jaundice Screening.,Ineligible study type or publication
+204,Nguyen D,2026,JAMA Network Open,41538182,Performance of an Intelligent Messaging Tool for Clinical Communications.,Ineligible study type or publication
+205,Podolsky MI,2025,JAMA Network Open,39836425,,Ineligible study type or publication
+206,Pöyry H,2026,JAMA Network Open,41701491,Parental Ability to Identify Severe Illnesses in Their Children.,Ineligible study type or publication
+207,Ramadan B,2025,JAMA Network Open,41632159,Diagnostic Codes in AI Prediction Models and Label Leakage of Same-Admission Clinical Outcomes.,Ineligible study type or publication
+208,Singh D,2025,JAMA Network Open,40742588,AI-Driven Injury Reporting in Pediatric Emergency Departments.,Ineligible study type or publication
+209,Twilt JJ,2025,JAMA Network Open,40512493,AI-Assisted vs Unassisted Identification of Prostate Cancer in Magnetic Resonance Images.,Ineligible study type or publication
+210,Vergara PO,2025,JAMA Network Open,40459894,Accuracy of Artificial Intelligence for Gatekeeping in Referrals to Specialized Care.,Ineligible study type or publication
+211,Wong EF,2024,JAMA Network Open,39625723,Evaluating Bias-Mitigated Predictive Models of Perinatal Mood and Anxiety Disorders.,Ineligible study type or publication
+212,Zimolzak AJ,2024,JAMA Network Open,39250157,Machine Learning to Enhance Electronic Detection of Diagnostic Errors.,Ineligible study type or publication
+213,Christensen M,2024,Nature Medicine,38689062,Vision-language foundation model for echocardiogram interpretation.,Ineligible study type or publication
+214,Johri S,2025,Nature Medicine,39747685,An evaluation framework for clinical use of large language models in patient interaction tasks.,Ineligible study type or publication
+215,Kinget L,2024,Nature Medicine,38773341,A spatial architecture-embedding HLA signature to predict clinical response to immunotherapy in renal cell carcinoma.,Ineligible study type or publication
+216,Landon BV,2025,Nature Medicine,41372534,Liquid biopsies across the cancer care continuum.,Ineligible study type or publication
+217,Li J,2024,Nature Medicine,39030266,Integrated image-based deep learning and language models for primary diabetes care.,Ineligible study type or publication
+218,Li Y,2025,Nature Medicine,40702324,Large language model-based biological age prediction in large-scale populations.,Ineligible study type or publication
+219,Li Z,2026,Nature Medicine,41491099,AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer.,Ineligible study type or publication
+220,Moguilner S,2024,Nature Medicine,39187698,Brain clocks capture diversity and disparities in aging and dementia across geographically diverse populations.,Ineligible study type or publication
+221,Oh HS,2025,Nature Medicine,40164724,A cerebrospinal fluid synaptic protein biomarker for prediction of cognitive resilience versus decline in Alzheimer's disease.,Ineligible study type or publication
+222,Saab K,2026,Nature Medicine,42135531,Advancing conversational diagnostic AI with multimodal reasoning.,Ineligible study type or publication
+223,Thapa R,2026,Nature Medicine,41495409,A multimodal sleep foundation model for disease prediction.,Ineligible study type or publication
+224,Vorontsov E,2024,Nature Medicine,39039250,A foundation model for clinical-grade computational pathology and rare cancers detection.,Ineligible study type or publication
+225,Wang K,2025,Nature Medicine,41145791,A full life cycle biological clock based on routine clinical data and its impact in health and diseases.,Ineligible study type or publication
+226,Widman AJ,2024,Nature Medicine,38877116,Ultrasensitive plasma-based monitoring of tumor burden using machine-learning-guided signal enrichment.,Ineligible study type or publication
+227,Yan S,2025,Nature Medicine,40481209,A multimodal vision foundation model for clinical dermatology.,Ineligible study type or publication
+228,Zhai B,2024,Nature Medicine,39095599,Antifungal heteroresistance causes prophylaxis failure and facilitates breakthrough Candida parapsilosis infections.,Ineligible study type or publication
+229,Hagopian R,2025,NEJM AI,40746702,AI Opportunistic Coronary Calcium Screening at Veterans Affairs Hospitals.,Ineligible study type or publication
+230,Moody JB,2025,NEJM AI,41446031,A foundation transformer model with self-supervised learning for ECG-based assessment of cardiac and coronary function.,Ineligible study type or publication
+231,Tan WK,2025,The Lancet,40570865,Biomarker risk stratification with capsule sponge in the surveillance of Barrett's oesophagus: prospective evaluation of UK real-world implementation.,Ineligible study type or publication
+232,Outland BE,2025,Annals of Internal Medicine,40587865,Modernizing Risk Adjustment in Health Care: A Position Paper of the American College of Physicians.,Ineligible study type or publication
+233,Rex DK,2024,Annals of Internal Medicine,38768450,Artificial Intelligence for Real-Time Prediction of the Histology of Colorectal Polyps by General Endoscopists.,Ineligible study type or publication
+234,Weiss J,2024,Annals of Internal Medicine,38527287,Deep Learning to Estimate Cardiovascular Risk From Chest Radiographs: A Risk Prediction Study,Out of window (published before TRIPOD+AI)
+235,Angus DC,2025,JAMA,41082366,"AI, Health, and Health Care Today and Tomorrow: The JAMA Summit Report on Artificial Intelligence.",Ineligible study type or publication
+236,Holste G,2025,JAMA,40549400,Complete AI-Enabled Echocardiography Interpretation With Multitask Deep Learning.,Ineligible study type or publication
+237,Hswen Y,2025,JAMA,39792368,How AI Could Help Clinicians Identify American Indian Patients at Risk for Suicide.,Ineligible study type or publication
+238,Perlis R,2025,JAMA,40377944,How an Economist's Application of Machine Learning to Target Nudges Applies to Precision Medicine.,Ineligible study type or publication
+239,Perlis R,2025,JAMA,40053357,Machine Learning Model Shows Promise in Early Detection of Serious Mental Illness.,Ineligible study type or publication
+240,Stringer JSA,2024,JAMA,39088200,Diagnostic Accuracy of an Integrated AI Tool to Estimate Gestational Age From Blind Ultrasound Sweeps.,Ineligible study type or publication
